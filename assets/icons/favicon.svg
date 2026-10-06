@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <rect width="48" height="48" rx="11" fill="#17140F"/>
+  <g fill="none" stroke="#C79A5E" stroke-width="2.4" stroke-linecap="round">
+    <!-- the arch: the studio's doorways and mirrors -->
+    <path d="M12 41V26a12 12 0 0 1 24 0v15"/>
+    <!-- the reeded oak slats inside it -->
+    <path d="M18.5 41V30.5" opacity=".6"/>
+    <path d="M24 41V27.5" opacity=".6"/>
+    <path d="M29.5 41V30.5" opacity=".6"/>
+    <!-- the macron from BĒSIA -->
+    <path d="M18.5 9h11"/>
+  </g>
+</svg>
